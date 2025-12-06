@@ -52,7 +52,7 @@ ul li a {
   text-decoration: none;
 }
 
-/* main-text */
+/* hero-section */
 .hero-section {
   display: flex;
   justify-content: space-between;
@@ -158,3 +158,28 @@ ul li a {
   /* padding: 0px 150px; */
   text-align: right;
 }
+
+/* donate section */
+.donate-section {
+  padding: 50px 150px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 50px 150px;
+  background-color: #8a6240;
+  border-radius: 10px;
+  color: #ffffff;
+}
+
+.btn-donate {
+  text-decoration: none;
+  color: #ffffff;
+  border: 2px solid #ffffff;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
+/* .donate-content {
+  margin: 0 50px;
+  background-color: #8a6240;
+} */

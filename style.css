@@ -12,7 +12,7 @@
   padding: 20px 150px;
   flex-wrap: wrap;
   align-items: center;
-  background-color: #1f2937;
+  /* background-color: #1f2937; */
 }
 
 .nav-logo {
@@ -22,7 +22,7 @@
 
 .nav-logo a {
   text-decoration: none;
-  color: #f9faf8;
+  color: #8a6240;
 }
 
 .nav-items {
@@ -33,7 +33,7 @@
 }
 
 .nav-items a {
-  color: #e5e7eb;
+  color: #8a6240;
 }
 
 .nav-items li {

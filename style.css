@@ -183,3 +183,11 @@ ul li a {
   margin: 0 50px;
   background-color: #8a6240;
 } */
+
+/* footer-section */
+.footer-section {
+  padding: 10px;
+  text-align: center;
+  background-color: rgba(31, 41, 55, 0.5);
+  color: white;
+}

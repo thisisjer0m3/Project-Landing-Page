@@ -69,7 +69,6 @@ ul li a {
   padding: 100px 150px;
   align-items: center;
   gap: 50px;
-  /* border: 2px solid red; */
 }
 
 .hero-content {
@@ -109,7 +108,6 @@ ul li a {
 
 .info-header {
   font-size: 24px;
-  /* font-weight: bold; */
   text-align: center;
 }
 
@@ -120,7 +118,6 @@ ul li a {
 .info-content {
   display: flex;
   justify-content: center;
-  /* align-items: centers; */
   padding: 50px 0px;
 }
 
@@ -129,7 +126,6 @@ ul li a {
   flex-direction: column;
   align-items: center;
   gap: 10px;
-  /* border: 2px solid red; */
 }
 
 .info-images img {
@@ -144,8 +140,6 @@ ul li a {
 .quote-section {
   padding: 50px 250px;
   background-color: rgba(138, 98, 64, 0.5);
-  /* margin: 0 auto; */
-  /* text-align: center; */
 }
 
 .quote-saying {
@@ -153,32 +147,18 @@ ul li a {
   font-size: 70px;
   font-style: italic;
   font-weight: 300;
-  /* padding: 1000px; */
   margin: 0 auto;
-  /* font-family: robot; */
 }
 .quote-writer {
   font-weight: bold;
   font-size: 24px;
-  /* margin-right: auto; */
-  /* display: flex;
-  flex-direction: column; */
-  /* align-items: end; */
   margin-top: 10px;
-  /* padding: 0px 150px; */
   text-align: right;
 }
 
 .donate-section {
   flex: 1;
-  /* display: flex; */
-  /* flex-direction: column; */
-  /* min-height: 100vh; */
-  /* justify-content: space-between; */
-  /* align-items: center; */
   margin: 50px 150px;
-  /* background-color: #8a6240; */
-  /* color: #ffffff; */
 }
 
 .donate-content {
@@ -188,7 +168,6 @@ ul li a {
   background-color: #8a6240;
   border-radius: 10px;
   color: #ffffff;
-  /* flex: 1; */
 }
 
 .btn-donate {
@@ -201,9 +180,7 @@ ul li a {
   background-color: #8a6240;
   padding: 0px 50px;
   border-radius: 10px;
-  /* display: inline-block; */
   cursor: pointer;
-  /* width: 100%; */
 }
 
 /* footer-section */
